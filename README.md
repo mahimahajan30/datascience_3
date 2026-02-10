@@ -12,5 +12,7 @@ Methodology:
 4. PDF Estimation: Generator used to create samples. Histogram/KDE used to estimate probability density.
 
 Results:
-![GAN PDF Graph](graph.png)
+
+![PDF Graph](image.png)
+
 
